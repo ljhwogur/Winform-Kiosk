@@ -1,0 +1,78 @@
+C:\Users\vmfhd\source\repos\WinFormsApp2\bin\Debug\net6.0-windows\Kiosk.exe
+C:\Users\vmfhd\source\repos\WinFormsApp2\bin\Debug\net6.0-windows\Kiosk.deps.json
+C:\Users\vmfhd\source\repos\WinFormsApp2\bin\Debug\net6.0-windows\Kiosk.runtimeconfig.json
+C:\Users\vmfhd\source\repos\WinFormsApp2\bin\Debug\net6.0-windows\Kiosk.dll
+C:\Users\vmfhd\source\repos\WinFormsApp2\bin\Debug\net6.0-windows\Kiosk.pdb
+C:\Users\vmfhd\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\Kiosk.csproj.GenerateResource.cache
+C:\Users\vmfhd\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\Kiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmfhd\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\Kiosk.AssemblyInfoInputs.cache
+C:\Users\vmfhd\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\Kiosk.AssemblyInfo.cs
+C:\Users\vmfhd\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\Kiosk.csproj.CoreCompileInputs.cache
+C:\Users\vmfhd\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\Kiosk.dll
+C:\Users\vmfhd\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\refint\Kiosk.dll
+C:\Users\vmfhd\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\Kiosk.pdb
+C:\Users\vmfhd\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\Kiosk.genruntimeconfig.cache
+C:\Users\vmfhd\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\ref\Kiosk.dll
+C:\Users\vmfhd\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\Kiosk.Form1.resources
+C:\Users\vmfhd\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\Kiosk.Form2.resources
+C:\Users\vmfhd\source\repos\Kiosk\obj\Debug\net6.0-windows\Kiosk.Form1.resources
+C:\Users\vmfhd\source\repos\Kiosk\obj\Debug\net6.0-windows\Kiosk.Form2.resources
+C:\Users\vmfhd\source\repos\Kiosk\obj\Debug\net6.0-windows\Kiosk.Form3.resources
+C:\Users\vmfhd\source\repos\Kiosk\obj\Debug\net6.0-windows\Kiosk.csproj.GenerateResource.cache
+C:\Users\vmfhd\source\repos\Kiosk\obj\Debug\net6.0-windows\Kiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmfhd\source\repos\Kiosk\obj\Debug\net6.0-windows\Kiosk.AssemblyInfoInputs.cache
+C:\Users\vmfhd\source\repos\Kiosk\obj\Debug\net6.0-windows\Kiosk.AssemblyInfo.cs
+C:\Users\vmfhd\source\repos\Kiosk\obj\Debug\net6.0-windows\Kiosk.csproj.CoreCompileInputs.cache
+C:\Users\vmfhd\source\repos\Kiosk\obj\Debug\net6.0-windows\Kiosk.dll
+C:\Users\vmfhd\source\repos\Kiosk\obj\Debug\net6.0-windows\refint\Kiosk.dll
+C:\Users\vmfhd\source\repos\Kiosk\obj\Debug\net6.0-windows\Kiosk.pdb
+C:\Users\vmfhd\source\repos\Kiosk\bin\Debug\net6.0-windows\Kiosk.exe
+C:\Users\vmfhd\source\repos\Kiosk\bin\Debug\net6.0-windows\Kiosk.deps.json
+C:\Users\vmfhd\source\repos\Kiosk\bin\Debug\net6.0-windows\Kiosk.runtimeconfig.json
+C:\Users\vmfhd\source\repos\Kiosk\bin\Debug\net6.0-windows\Kiosk.dll
+C:\Users\vmfhd\source\repos\Kiosk\bin\Debug\net6.0-windows\Kiosk.pdb
+C:\Users\vmfhd\source\repos\Kiosk\obj\Debug\net6.0-windows\Kiosk.genruntimeconfig.cache
+C:\Users\vmfhd\source\repos\Kiosk\obj\Debug\net6.0-windows\ref\Kiosk.dll
+C:\Users\vmfhd\source\repos\Kiosk\obj\Debug\net6.0-windows\Kiosk.Form4.resources
+C:\Users\vmfhd\source\repos\Kiosk\obj\Debug\net6.0-windows\Kiosk.Properties.Resources.resources
+C:\Users\dkr14\Desktop\Kiosk\bin\Debug\net6.0-windows\Kiosk.exe
+C:\Users\dkr14\Desktop\Kiosk\bin\Debug\net6.0-windows\Kiosk.deps.json
+C:\Users\dkr14\Desktop\Kiosk\bin\Debug\net6.0-windows\Kiosk.runtimeconfig.json
+C:\Users\dkr14\Desktop\Kiosk\bin\Debug\net6.0-windows\Kiosk.dll
+C:\Users\dkr14\Desktop\Kiosk\bin\Debug\net6.0-windows\Kiosk.pdb
+C:\Users\dkr14\Desktop\Kiosk\obj\Debug\net6.0-windows\Kiosk.csproj.AssemblyReference.cache
+C:\Users\dkr14\Desktop\Kiosk\obj\Debug\net6.0-windows\Kiosk.Form1.resources
+C:\Users\dkr14\Desktop\Kiosk\obj\Debug\net6.0-windows\Kiosk.Form2.resources
+C:\Users\dkr14\Desktop\Kiosk\obj\Debug\net6.0-windows\Kiosk.Form3.resources
+C:\Users\dkr14\Desktop\Kiosk\obj\Debug\net6.0-windows\Kiosk.Form4.resources
+C:\Users\dkr14\Desktop\Kiosk\obj\Debug\net6.0-windows\Kiosk.Properties.Resources.resources
+C:\Users\dkr14\Desktop\Kiosk\obj\Debug\net6.0-windows\Kiosk.csproj.GenerateResource.cache
+C:\Users\dkr14\Desktop\Kiosk\obj\Debug\net6.0-windows\Kiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkr14\Desktop\Kiosk\obj\Debug\net6.0-windows\Kiosk.AssemblyInfoInputs.cache
+C:\Users\dkr14\Desktop\Kiosk\obj\Debug\net6.0-windows\Kiosk.AssemblyInfo.cs
+C:\Users\dkr14\Desktop\Kiosk\obj\Debug\net6.0-windows\Kiosk.csproj.CoreCompileInputs.cache
+C:\Users\dkr14\Desktop\Kiosk\obj\Debug\net6.0-windows\Kiosk.dll
+C:\Users\dkr14\Desktop\Kiosk\obj\Debug\net6.0-windows\refint\Kiosk.dll
+C:\Users\dkr14\Desktop\Kiosk\obj\Debug\net6.0-windows\Kiosk.pdb
+C:\Users\dkr14\Desktop\Kiosk\obj\Debug\net6.0-windows\Kiosk.genruntimeconfig.cache
+C:\Users\dkr14\Desktop\Kiosk\obj\Debug\net6.0-windows\ref\Kiosk.dll
+C:\Users\vmfhd\OneDrive\바탕 화면\Kiosk (2)\bin\Debug\net6.0-windows\Kiosk.exe
+C:\Users\vmfhd\OneDrive\바탕 화면\Kiosk (2)\bin\Debug\net6.0-windows\Kiosk.deps.json
+C:\Users\vmfhd\OneDrive\바탕 화면\Kiosk (2)\bin\Debug\net6.0-windows\Kiosk.runtimeconfig.json
+C:\Users\vmfhd\OneDrive\바탕 화면\Kiosk (2)\bin\Debug\net6.0-windows\Kiosk.dll
+C:\Users\vmfhd\OneDrive\바탕 화면\Kiosk (2)\bin\Debug\net6.0-windows\Kiosk.pdb
+C:\Users\vmfhd\OneDrive\바탕 화면\Kiosk (2)\obj\Debug\net6.0-windows\Kiosk.Form1.resources
+C:\Users\vmfhd\OneDrive\바탕 화면\Kiosk (2)\obj\Debug\net6.0-windows\Kiosk.Form2.resources
+C:\Users\vmfhd\OneDrive\바탕 화면\Kiosk (2)\obj\Debug\net6.0-windows\Kiosk.Form3.resources
+C:\Users\vmfhd\OneDrive\바탕 화면\Kiosk (2)\obj\Debug\net6.0-windows\Kiosk.Form4.resources
+C:\Users\vmfhd\OneDrive\바탕 화면\Kiosk (2)\obj\Debug\net6.0-windows\Kiosk.Properties.Resources.resources
+C:\Users\vmfhd\OneDrive\바탕 화면\Kiosk (2)\obj\Debug\net6.0-windows\Kiosk.csproj.GenerateResource.cache
+C:\Users\vmfhd\OneDrive\바탕 화면\Kiosk (2)\obj\Debug\net6.0-windows\Kiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmfhd\OneDrive\바탕 화면\Kiosk (2)\obj\Debug\net6.0-windows\Kiosk.AssemblyInfoInputs.cache
+C:\Users\vmfhd\OneDrive\바탕 화면\Kiosk (2)\obj\Debug\net6.0-windows\Kiosk.AssemblyInfo.cs
+C:\Users\vmfhd\OneDrive\바탕 화면\Kiosk (2)\obj\Debug\net6.0-windows\Kiosk.csproj.CoreCompileInputs.cache
+C:\Users\vmfhd\OneDrive\바탕 화면\Kiosk (2)\obj\Debug\net6.0-windows\Kiosk.dll
+C:\Users\vmfhd\OneDrive\바탕 화면\Kiosk (2)\obj\Debug\net6.0-windows\refint\Kiosk.dll
+C:\Users\vmfhd\OneDrive\바탕 화면\Kiosk (2)\obj\Debug\net6.0-windows\Kiosk.pdb
+C:\Users\vmfhd\OneDrive\바탕 화면\Kiosk (2)\obj\Debug\net6.0-windows\Kiosk.genruntimeconfig.cache
+C:\Users\vmfhd\OneDrive\바탕 화면\Kiosk (2)\obj\Debug\net6.0-windows\ref\Kiosk.dll
